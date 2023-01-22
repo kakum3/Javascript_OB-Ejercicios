@@ -1,0 +1,19 @@
+{
+  "name": "javascript_ob-ejercicios",
+  "version": "1.0.0",
+  "description": "Javascript_basico",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kakum3/Javascript_OB-Ejercicios.git"
+  },
+  "author": "Jesús Espartero",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kakum3/Javascript_OB-Ejercicios/issues"
+  },
+  "homepage": "https://github.com/kakum3/Javascript_OB-Ejercicios#readme"
+}
